@@ -1,0 +1,1 @@
+this floder is created to store all python scripting assignment questions
